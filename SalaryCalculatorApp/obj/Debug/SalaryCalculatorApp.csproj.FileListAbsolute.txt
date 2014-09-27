@@ -1,0 +1,9 @@
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalculatorUI.resources
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+D:\Moshiur_OOP_49\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
